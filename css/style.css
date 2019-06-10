@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+    background-color: dodgerblue;
+    font-family: 'Roboto', sans-serif;
+    color : white;
+    
+}
+
+label {
+    display: table;
+    padding: 10px;
+}
+
+input {
+    padding: 5px;
+    
+}
+
+input[type="text"] {
+    max-width: 400px;
+    width:100%;
+    height: 20px;
+    border: none;
+    border-radius: 10px;
+}
